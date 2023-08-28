@@ -1,2 +1,3 @@
 Here is another file.
+You forgot to put in a middle line.
 it is also another wonderful file.
