@@ -1,3 +1,4 @@
 Here is another file.
 You forgot to put in a middle line.
+Here is a new segment.
 it is also another wonderful file.
